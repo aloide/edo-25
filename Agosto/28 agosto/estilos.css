@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(98, 78, 165);
+    background-color: rgba(255, 0, 0, 0.5);
+    font-size: 4rem;
+}
+
+.letra-roja{
+    color: red;
+}
+
+.fondo-verde{
+    background-color: green;
+}

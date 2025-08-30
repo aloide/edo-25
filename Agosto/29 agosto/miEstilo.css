@@ -1,0 +1,25 @@
+p {
+    color: rgb(163, 218, 27);
+    background-color: rgba(255, 0, 0, 0.5);
+    width: 50px;
+}
+
+h1 {
+    background-color: rgba(87, 192, 192, 0.7);
+    font-size: 24px;
+    width: 100px;
+}
+
+
+.fondo-verde {
+    background-color: green;
+}
+
+.cuadrado {
+    width: 150px;
+    height: 200px;
+}
+
+#cuadradito{
+    color:red
+}
