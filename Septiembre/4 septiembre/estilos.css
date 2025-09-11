@@ -1,0 +1,47 @@
+* {
+    color : green;
+    background-color: rgb(255, 255, 255);
+}
+
+p {
+    color : rgb(204, 210, 39) ;
+}    
+
+.color-rojo {
+    color: red
+}
+
+.fuente-arial {
+    /*  helvetica es una fuente  */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.fuente-grande { font-size: 12rem ; }
+
+.fuente-mediana { font-size: 8rem; }
+
+.fuente-chiquita { font-size: 4rem; }
+
+.fuente-ancha { font-weight: 800; }
+
+.fuente-delgada { font-weight: 200;  }
+/* bold-bolder-light-lighter */
+
+.fuente-inclinada { font-style: italic; }
+
+.fuente-normal { font-style: normal; }
+
+
+#cubo {
+    /*flex-box: conjunto de margen - borde - relleno */
+    width: 400px ;
+    height: 500px ;
+
+    background-color: chocolate;
+
+    border : chartreuse 2px solid;
+    /*border-style: double;*/
+
+
+}
+

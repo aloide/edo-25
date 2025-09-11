@@ -1,0 +1,16 @@
+#derecha {
+ background-color: rgba(0, 128, 0, 0.6);
+ margin: 100px 50px 75px 200px;
+ padding-left: 50px;
+ border: 10px solid red ;
+}
+
+#izquierda{
+    background-color: rgba(255, 0, 0, 0.6);
+    margin-right: -12px;
+    padding: 48px;
+    border-style: double;
+    border-width: 10px;
+    border-color: green;
+    
+}

@@ -1,0 +1,40 @@
+* {
+  /*  background-color: rgb(234, 125, 0); */
+    color: rgb(172, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 { font-size: 3rem; }
+
+h2 { font-size: 1.5rem ; }
+
+p {
+     font-size: 1rem; 
+     background-color: rgba(0, 128, 0, 0.3);
+}
+
+.letra-arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#cuadrado{
+  width: 100px;
+  height: 150px;
+  background-color: magenta;
+}
+
+.letra-ancha{
+  font-weight: 800; /* letra ancha */
+}
+
+.letra-delgada{
+  font-weight: 100;
+}
+
+.letra-italica{ font-style: italic;}
+.letra-normal { font-style: normal;}
+
+
+
+
+
