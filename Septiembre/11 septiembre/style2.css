@@ -1,0 +1,9 @@
+h1 { background-color: rgba(0, 128, 0, 0.5); }
+p { background-color: rgba(0, 255, 255, 0.5); }
+span {
+    background-color: rgba(255, 0, 0, 0.5); 
+    /*display: block;*/
+    /*display: none;*/
+    visibility: hidden !important;
+}
+div { background-color: rgba(128, 255, 0, 0.5); }

@@ -1,0 +1,29 @@
+h1{
+    background-color: lightblue;
+    
+}
+
+div {
+    
+}
+
+.principal  .menu   h1 {
+    display: inline;
+}
+
+
+p {
+    background-color: lightcoral;
+    display: block;
+}
+span {
+    background-color: lightseagreen;
+    /*display: block;*/
+    visibility: hidden;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,24 @@
+.contenedor{
+background-color: rgba(255, 68, 0, 0.5);
+margin: 24px;
+padding: 48px;
+width: 400px; /*ancho*/
+border-radius: 48px;
+}
+.elemento{
+background-color: rgb(255, 132, 0);
+margin-top: 24px; /*superior*/
+margin-bottom: 24px; /*inferior*/
+padding: 12px;
+border-radius: 24px; /*redondeado*/
+margin-left: 48px;
+}
+
+#contenedor{ }
+
+#elemento {
+    background-color: blueviolet;
+    margin: auto;
+    width: 16px;
+}
+
