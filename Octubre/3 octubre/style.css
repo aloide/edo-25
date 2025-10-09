@@ -1,0 +1,27 @@
+.fondo-rojo {
+    background-color: rgba(220, 20, 60, 0.6);
+}
+.fondo-verde {
+    background-color: rgba(0, 128, 0, 0.6);
+}
+
+.cita{ /* quote */
+    padding: 24px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    border-left: 4px solid orangered;
+}
+
+.cita-titulo{
+    /* font-size: 24px; */
+    color: orangered;
+}
+
+.cita-cuerpo{
+    font-size: 12px;
+}
+
+.gr{
+    background: rgba(42, 123, 155, 6.1);
+    background: linear-gradient(90deg, rgba(42, 123, 155, 0.61) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
