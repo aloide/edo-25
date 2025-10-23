@@ -1,0 +1,9 @@
+number 11  25 32 -555
+float 5.5    -3.14159263
+string   'a'   "escuela de oficios"
+bool   true  false
+NaN   not as number
+objeto  {  }
+array (arreglo) []
+[1,2,20,35,-1] 
+["hola",123,4.123,true]

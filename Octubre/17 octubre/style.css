@@ -1,0 +1,29 @@
+.gradiente{   
+}
+
+h1{    color:coral }
+
+#titulo{
+}
+
+.color-verde{
+    color:rgba(0, 128, 0, 0.5)
+}
+
+.enlace{
+    padding: 12px;
+    background-color: rgba(255, 140, 0, 0.4);
+    border-radius: 4px;
+}
+
+.fondo{
+    background: #2A7B9B;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+
+.fondo-imagen{
+    background-image: url("./imagen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
