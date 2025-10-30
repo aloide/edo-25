@@ -1,0 +1,10 @@
+@font-face {
+    font-family: profe;
+    src: url("../fuentes/Holidays\ Homework.ttf");
+}
+
+h1 {
+    color: rebeccapurple;
+    font-family: profe, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3rem;
+}
