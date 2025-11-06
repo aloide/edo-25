@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'letra profe' ;
+    src: url('./Motterdam.ttf');
+}
+
+.letra-profe{
+    font-family: 'letra profe', Arial, Helvetica, sans-serif;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.titulo img{
+    width: 32px;
+    height: 32px;
+}
+
+.titulo h1{
+    font-size: 32px;
+    color: orangered;
+    background-color: rgba(137, 43, 226, 0.5);
+}
+
+.card{
+    background-color: rgba(222, 184, 135, 0.6);
+    width: 400px;
+}
+
+
+.contenedor{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 12px;
+}
+
+.tarjeta{
+    background-color: rgba(218, 112, 214, 0.6);
+    border: 1px solid orchid;
+    padding: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.tarjeta-titulo{
+    font-size: 18px;
+}
+
+.tarjeta-cuerpo{
+    font-size: 12px;
+
+}
