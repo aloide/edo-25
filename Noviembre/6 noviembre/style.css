@@ -1,0 +1,16 @@
+.fondo{
+    height: 600px;
+    width: 800px;
+    background-image: url('./fondo.jpg');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.fondo-contenido{
+    background-color: rgba(0, 255, 0, 0.3);
+    height: 48px;
+    font-size: 24px;
+}

@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'letra profe';
+    src: url('./FortalesiaPlain_PERSONAL_USE_ONLY.otf');
+}
+
+.link{
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    border-radius: 4px;
+    background-color: orange;
+    width: 192px;
+}
+
+.link img{
+    width: 32px;
+    height: 32px;
+}
+
+.medio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h3{
+    font-family: 'letra profe';
+    color:blue
+}
+
+.fondo{
+    background-image: url('./fondo.jpg');
+    background-size: cover;
+    width: 800px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.fondo .contenido{
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.5);
+}
